@@ -20,22 +20,19 @@ In this project, a vulnerability assessment is conducted for a small business.
 <h2>Vulnerability assessment walk-through:</h2>
 
 <p align="center">
-Change directory, and list contents: <br/>
-<img src="linux 1.PNG" height="80%" width="80%" alt=""/>
+Risk assesment: <br/>
+<img src="vul 1.PNG" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Change permissions on text file:  <br/>
-<img src="linux 2.PNG" height="80%" width="80%" alt=""/>
+Approach:  <br/>
+<img src="vul 2.PNG" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Change permissions on hidden text file: <br/>
-<img src="linux 3.PNG" height="80%" width="80%" alt=""/>
+Remediation Strategy: <br/>
+<img src="vul 3.PNG" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Change permissions on directory: <br/>
-<img src="linux 4.PNG" height="80%" width="80%" alt=""/>
-<br />
-<br />
+
 
 <!--
  ```diff
